@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="666fcf48-84eb-4322-9359-386f4b3562a6" name="Changes" comment="Handling the first default item - advertisement&#10;Handling items without prices&#10;Handling items without links&#10;Handling an invalid value in the price of an item (not a number)&#10;Handling only Israeli rings&#10;Handling duplicate items - the same link&#10;Handling the default value of LISTBOX&#10;Handling DISABLED values of LISTBOX" />
+    <list default="true" id="666fcf48-84eb-4322-9359-386f4b3562a6" name="Changes" comment="screenshot fixing">
+      <change afterPath="$PROJECT_DIR$/..screenshots/Report.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/cart_total.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/item_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/item_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/item_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/item_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/item_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_ebay.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ebay.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +31,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "maharizi"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/maharizi/EbayE2E.git",
@@ -43,9 +60,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/MAORMAH/PycharmProjects/EbayE2E"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MAORMAH\PycharmProjects\EbayE2E" />
+      <recent name="C:\Users\MAORMAH\PycharmProjects\EbayE2E\utils" />
+      <recent name="C:\Users\MAORMAH\PycharmProjects\EbayE2E\tests" />
+      <recent name="C:\Users\MAORMAH\PycharmProjects\EbayE2E\screenshots" />
+      <recent name="C:\Users\MAORMAH\PycharmProjects\EbayE2E\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MAORMAH\PycharmProjects\EbayE2E\..screenshots" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python tests.Python tests for test_ebay.test_ebay_e2e">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EbayE2E" />
@@ -115,22 +145,29 @@
       <option name="project" value="LOCAL‎" />
       <updated>1762800564046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="GithubPullRequestsUISettings">
+      <option name="closed" value="true" />
+      <created>1762800811346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1762800811346</updated>
+    </task>
+    <task id="LOCAL‎-00003" summary="screenshot fixing">
+      <option name="closed" value="true" />
+      <created>1762800943318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1762800943318</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Handling the first default item - advertisement&#10;Handling items without prices&#10;Handling items without links&#10;Handling an invalid value in the price of an item (not a number)&#10;Handling only Israeli rings&#10;Handling duplicate items - the same link&#10;Handling the default value of LISTBOX&#10;Handling DISABLED values of LISTBOX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Handling the first default item - advertisement&#10;Handling items without prices&#10;Handling items without links&#10;Handling an invalid value in the price of an item (not a number)&#10;Handling only Israeli rings&#10;Handling duplicate items - the same link&#10;Handling the default value of LISTBOX&#10;Handling DISABLED values of LISTBOX" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="GithubPullRequestsUISettings" />
+    <MESSAGE value="screenshot fixing" />
+    <option name="LAST_COMMIT_MESSAGE" value="screenshot fixing" />
   </component>
 </project>

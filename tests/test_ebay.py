@@ -1,4 +1,8 @@
 #Requirement 5 - Full E2E scenario
+import os
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 import pytest
 from playwright.sync_api import sync_playwright
 from pages.login_page import LoginPage

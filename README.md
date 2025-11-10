@@ -85,13 +85,21 @@ pytest --alluredir=reports/allure-results
 Generate an HTML report with Allure:
 allure serve reports/allure-results
 
+# Reports and Documentation
+
+Allure Reports provide - Test status (Pass/Fail)
+file:///C:/Users/MAORMAH/PycharmProjects/EbayE2E/report.html
+
 # Screenshots
 
 Example screenshots from test execution:
-https://github.com/maharizi/EbayE2E/blob/master/screenshots/cart_total.png
-https://github.com/maharizi/EbayE2E/blob/master/screenshots/item_1.png
-https://github.com/maharizi/EbayE2E/blob/master/screenshots/item_2.png
-https://github.com/maharizi/EbayE2E/blob/master/screenshots/item_3.png
+![cart_total.png](..screenshots/cart_total.png)
+![item_1.png](..screenshots/item_1.png)
+![item_2.png](..screenshots/item_2.png)
+![item_3.png](..screenshots/item_3.png)
+![item_4.png](..screenshots/item_4.png)
+![item_5.png](..screenshots/item_5.png)
+![Report.png](..screenshots/Report.png)
 
 # Test Scenarios
 
