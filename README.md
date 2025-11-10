@@ -88,6 +88,10 @@ allure serve reports/allure-results
 # Screenshots
 
 Example screenshots from test execution:
+https://github.com/maharizi/EbayE2E/blob/master/screenshots/cart_total.png
+https://github.com/maharizi/EbayE2E/blob/master/screenshots/item_1.png
+https://github.com/maharizi/EbayE2E/blob/master/screenshots/item_2.png
+https://github.com/maharizi/EbayE2E/blob/master/screenshots/item_3.png
 
 # Test Scenarios
 
