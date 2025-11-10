@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="666fcf48-84eb-4322-9359-386f4b3562a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EbayE2E.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/cart_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/item_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/search_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_ebay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/helpers.py" afterDir="false" />
-    </list>
+    <list default="true" id="666fcf48-84eb-4322-9359-386f4b3562a6" name="Changes" comment="Handling the first default item - advertisement&#10;Handling items without prices&#10;Handling items without links&#10;Handling an invalid value in the price of an item (not a number)&#10;Handling only Israeli rings&#10;Handling duplicate items - the same link&#10;Handling the default value of LISTBOX&#10;Handling DISABLED values of LISTBOX" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/maharizi/EbayE2E.git",
+    "accountId": "60caecad-d9cc-454d-8fea-1aa379afbd8e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -117,7 +107,20 @@
       <option name="presentableId" value="Default" />
       <updated>1762420294408</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="Handling the first default item - advertisement&#10;Handling items without prices&#10;Handling items without links&#10;Handling an invalid value in the price of an item (not a number)&#10;Handling only Israeli rings&#10;Handling duplicate items - the same link&#10;Handling the default value of LISTBOX&#10;Handling DISABLED values of LISTBOX">
+      <option name="closed" value="true" />
+      <created>1762800564046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1762800564046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Handling the first default item - advertisement&#10;Handling items without prices&#10;Handling items without links&#10;Handling an invalid value in the price of an item (not a number)&#10;Handling only Israeli rings&#10;Handling duplicate items - the same link&#10;Handling the default value of LISTBOX&#10;Handling DISABLED values of LISTBOX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Handling the first default item - advertisement&#10;Handling items without prices&#10;Handling items without links&#10;Handling an invalid value in the price of an item (not a number)&#10;Handling only Israeli rings&#10;Handling duplicate items - the same link&#10;Handling the default value of LISTBOX&#10;Handling DISABLED values of LISTBOX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
