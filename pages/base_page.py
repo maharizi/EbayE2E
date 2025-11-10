@@ -12,4 +12,4 @@ class BasePage:
 
     # Screenshot for documentation
     def take_screenshot(self, name: str):
-        self.page.screenshot(path=f"screenshots/{name}.png")
+        self.page.screenshot(path=f"..screenshots/{name}.png")
