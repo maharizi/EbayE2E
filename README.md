@@ -5,6 +5,17 @@
 The EbayE2E project performs automated end-to-end testing for the eBay website.
 The project is built using the Page Object Model (POM) architecture and utilizes Playwright for automation.
 
+# Coverage
+
+Handling the first default item - advertisement
+Handling items without prices
+Handling items without links
+Handling an invalid value in the price of an item (not a number)
+Handling only Israeli rings
+Handling duplicate items - the same link
+Handling the default value of LISTBOX
+Handling DISABLED values of LISTBOX
+
 # Table of Contents
 
 1. Objective
