@@ -7,14 +7,14 @@ The project is built using the Page Object Model (POM) architecture and utilizes
 
 # Coverage
 
-Handling the first default item - advertisement
-Handling items without prices
-Handling items without links
-Handling an invalid value in the price of an item (not a number)
-Handling only Israeli rings
-Handling duplicate items - the same link
-Handling the default value of LISTBOX
-Handling DISABLED values of LISTBOX
+1. Handling the first default item - advertisement
+2. Handling items without prices
+3. Handling items without links
+4. Handling an invalid value in the price of an item (not a number)
+5. Handling only Israeli rings
+6. Handling duplicate items - the same link
+7. Handling the default value of LISTBOX
+8. Handling DISABLED values of LISTBOX
 
 # Table of Contents
 
