@@ -16,6 +16,9 @@ The project is built using the Page Object Model (POM) architecture and utilizes
 7. Handling the default value of LISTBOX
 8. Handling DISABLED values of LISTBOX
 
+9. No price range handling
+10. No shipping charges handling
+
 # Table of Contents
 
 1. Objective
