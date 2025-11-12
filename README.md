@@ -15,7 +15,6 @@ The project is built using the Page Object Model (POM) architecture and utilizes
 6. Handling duplicate items - the same link
 7. Handling the default value of LISTBOX
 8. Handling DISABLED values of LISTBOX
-
 9. No price range handling
 10. No shipping charges handling
 
