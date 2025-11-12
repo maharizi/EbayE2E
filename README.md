@@ -11,10 +11,10 @@ The project is built using the Page Object Model (POM) architecture and utilizes
 2. Handling items without prices
 3. Handling items without links
 4. Handling an invalid value in the price of an item (not a number)
-5. Handling only Israeli rings
+5. Handling only Israeli currency (ILS) 
 6. Handling duplicate items - the same link
-7. Handling the default value of LISTBOX
-8. Handling DISABLED values of LISTBOX
+7. Handling the default value of LISTBOX ("select" option in size/color lןst boxes)
+8. Handling DISABLED values of LISTBOX (size/color lןst boxes)
 9. No price range handling
 10. No shipping charges handling
 
